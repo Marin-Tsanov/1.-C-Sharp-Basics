@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Age\bin\Debug\Age.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Age\bin\Debug\Age.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Age\bin\Debug\Age.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Age\obj\Debug\Age.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Age\obj\Debug\Age.pdb

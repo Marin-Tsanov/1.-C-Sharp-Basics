@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\Exam\bin\Debug\Exam.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\Exam\bin\Debug\Exam.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\Exam\bin\Debug\Exam.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\Exam\obj\Debug\Exam.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\Exam\obj\Debug\Exam.pdb

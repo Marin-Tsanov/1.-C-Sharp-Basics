@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintASCIITable3\bin\Debug\PrintASCIITable3.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintASCIITable3\bin\Debug\PrintASCIITable3.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintASCIITable3\bin\Debug\PrintASCIITable3.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintASCIITable3\obj\Debug\PrintASCIITable3.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintASCIITable3\obj\Debug\PrintASCIITable3.pdb

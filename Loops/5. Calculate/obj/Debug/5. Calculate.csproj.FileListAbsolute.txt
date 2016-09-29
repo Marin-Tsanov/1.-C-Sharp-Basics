@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\5. Calculate\bin\Debug\_5.Calculate.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\5. Calculate\bin\Debug\_5.Calculate.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\5. Calculate\bin\Debug\_5.Calculate.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\5. Calculate\obj\Debug\5. Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\5. Calculate\obj\Debug\_5.Calculate.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\5. Calculate\obj\Debug\_5.Calculate.pdb

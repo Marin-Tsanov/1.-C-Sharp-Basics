@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

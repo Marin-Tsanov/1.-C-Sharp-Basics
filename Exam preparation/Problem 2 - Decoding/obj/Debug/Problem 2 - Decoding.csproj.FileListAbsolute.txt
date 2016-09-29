@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 2 - Decoding\bin\Debug\Problem 2 - Decoding.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 2 - Decoding\bin\Debug\Problem 2 - Decoding.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 2 - Decoding\bin\Debug\Problem 2 - Decoding.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 2 - Decoding\obj\Debug\Problem 2 - Decoding.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 2 - Decoding\obj\Debug\Problem 2 - Decoding.pdb

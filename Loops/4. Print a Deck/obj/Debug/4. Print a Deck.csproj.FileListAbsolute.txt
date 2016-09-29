@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\4. Print a Deck\bin\Debug\_4.Print_a_Deck.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\4. Print a Deck\bin\Debug\_4.Print_a_Deck.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\4. Print a Deck\bin\Debug\_4.Print_a_Deck.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\4. Print a Deck\obj\Debug\4. Print a Deck.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\4. Print a Deck\obj\Debug\_4.Print_a_Deck.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\4. Print a Deck\obj\Debug\_4.Print_a_Deck.pdb

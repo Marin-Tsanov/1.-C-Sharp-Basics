@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\3. Produkt\bin\Debug\_3.Produkt.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\3. Produkt\bin\Debug\_3.Produkt.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\3. Produkt\bin\Debug\_3.Produkt.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\3. Produkt\obj\Debug\_3.Produkt.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\3. Produkt\obj\Debug\_3.Produkt.pdb

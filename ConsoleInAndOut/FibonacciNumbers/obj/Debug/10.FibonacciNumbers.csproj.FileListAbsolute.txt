@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\FibonacciNumbers\bin\Debug\FibonacciNumbers.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb

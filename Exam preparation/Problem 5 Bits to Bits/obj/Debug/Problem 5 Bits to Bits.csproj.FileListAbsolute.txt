@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 5 Bits to Bits\bin\Debug\Problem 5 Bits to Bits.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 5 Bits to Bits\bin\Debug\Problem 5 Bits to Bits.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 5 Bits to Bits\bin\Debug\Problem 5 Bits to Bits.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 5 Bits to Bits\obj\Debug\Problem 5 Bits to Bits.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 5 Bits to Bits\obj\Debug\Problem 5 Bits to Bits.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 5 Bits to Bits\obj\Debug\Problem 5 Bits to Bits.pdb

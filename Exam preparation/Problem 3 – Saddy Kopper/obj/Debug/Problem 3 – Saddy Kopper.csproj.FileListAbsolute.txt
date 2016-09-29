@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 3 – Saddy Kopper\bin\Debug\Problem 3 – Saddy Kopper.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 3 – Saddy Kopper\bin\Debug\Problem 3 – Saddy Kopper.exe
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 3 – Saddy Kopper\bin\Debug\Problem 3 – Saddy Kopper.pdb
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 3 – Saddy Kopper\obj\Debug\Problem 3 – Saddy Kopper.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 3 – Saddy Kopper\obj\Debug\Problem 3 – Saddy Kopper.exe
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 3 – Saddy Kopper\obj\Debug\Problem 3 – Saddy Kopper.pdb

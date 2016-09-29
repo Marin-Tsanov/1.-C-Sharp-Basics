@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\10. Odd and Even Product\obj\Debug\10. Odd and Even Product.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\10. Odd and Even Product\bin\Debug\_10.Odd_and_Even_Product.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\10. Odd and Even Product\obj\Debug\_10.Odd_and_Even_Product.pdb

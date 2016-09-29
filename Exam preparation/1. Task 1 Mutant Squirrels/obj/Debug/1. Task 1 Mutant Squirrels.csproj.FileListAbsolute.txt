@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\1. Task 1 Mutant Squirrels\bin\Debug\_1.Task_1_Mutant_Squirrels.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\1. Task 1 Mutant Squirrels\bin\Debug\_1.Task_1_Mutant_Squirrels.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\1. Task 1 Mutant Squirrels\bin\Debug\_1.Task_1_Mutant_Squirrels.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\1. Task 1 Mutant Squirrels\obj\Debug\1. Task 1 Mutant Squirrels.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\1. Task 1 Mutant Squirrels\obj\Debug\_1.Task_1_Mutant_Squirrels.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\1. Task 1 Mutant Squirrels\obj\Debug\_1.Task_1_Mutant_Squirrels.pdb

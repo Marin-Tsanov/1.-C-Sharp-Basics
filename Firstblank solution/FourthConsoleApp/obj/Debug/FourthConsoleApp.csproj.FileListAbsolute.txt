@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\Firstblank solution\FourthConsoleApp\bin\Debug\FourthConsoleApp.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\Firstblank solution\FourthConsoleApp\bin\Debug\FourthConsoleApp.exe
+c:\users\marin\documents\visual studio 2015\Projects\Firstblank solution\FourthConsoleApp\bin\Debug\FourthConsoleApp.pdb
+c:\users\marin\documents\visual studio 2015\Projects\Firstblank solution\FourthConsoleApp\obj\Debug\FourthConsoleApp.exe
+c:\users\marin\documents\visual studio 2015\Projects\Firstblank solution\FourthConsoleApp\obj\Debug\FourthConsoleApp.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Firstblank solution\FourthConsoleApp\obj\Debug\FourthConsoleApp.csprojResolveAssemblyReference.cache

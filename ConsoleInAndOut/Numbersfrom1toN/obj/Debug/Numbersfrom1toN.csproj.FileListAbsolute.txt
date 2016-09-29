@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Numbersfrom1toN\bin\Debug\Numbersfrom1toN.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Numbersfrom1toN\obj\Debug\Numbersfrom1toN.pdb

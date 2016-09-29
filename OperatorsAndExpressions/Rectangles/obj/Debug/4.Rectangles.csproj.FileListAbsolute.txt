@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Rectangles\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.pdb

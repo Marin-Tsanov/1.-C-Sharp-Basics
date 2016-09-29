@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ExerciseBitExchange\bin\Debug\ExerciseBitExchange.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ExerciseBitExchange\obj\Debug\ExerciseBitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ExerciseBitExchange\bin\Debug\ExerciseBitExchange.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ExerciseBitExchange\bin\Debug\ExerciseBitExchange.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ExerciseBitExchange\obj\Debug\ExerciseBitExchange.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ExerciseBitExchange\obj\Debug\ExerciseBitExchange.pdb

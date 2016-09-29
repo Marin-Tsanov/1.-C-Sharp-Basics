@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 3 Maslan\bin\Debug\Problem 3 Maslan.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 3 Maslan\bin\Debug\Problem 3 Maslan.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 3 Maslan\bin\Debug\Problem 3 Maslan.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 3 Maslan\obj\Debug\Problem 3 Maslan.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 3 Maslan\obj\Debug\Problem 3 Maslan.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Problem 3 Maslan\obj\Debug\Problem 3 Maslan.pdb

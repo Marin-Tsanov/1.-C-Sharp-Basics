@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsOverview\bin\Debug\OperatorsOverview.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsOverview\bin\Debug\OperatorsOverview.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsOverview\bin\Debug\OperatorsOverview.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsOverview\obj\Debug\OperatorsOverview.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsOverview\obj\Debug\OperatorsOverview.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\OperatorsOverview\obj\Debug\OperatorsOverview.pdb

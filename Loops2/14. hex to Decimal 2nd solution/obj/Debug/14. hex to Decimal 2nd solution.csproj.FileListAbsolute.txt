@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\14. hex to Decimal 2nd solution\bin\Debug\_14.hex_to_Decimal_2nd_solution.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\14. hex to Decimal 2nd solution\bin\Debug\_14.hex_to_Decimal_2nd_solution.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\14. hex to Decimal 2nd solution\bin\Debug\_14.hex_to_Decimal_2nd_solution.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\14. hex to Decimal 2nd solution\obj\Debug\14. hex to Decimal 2nd solution.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\14. hex to Decimal 2nd solution\obj\Debug\_14.hex_to_Decimal_2nd_solution.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\14. hex to Decimal 2nd solution\obj\Debug\_14.hex_to_Decimal_2nd_solution.pdb

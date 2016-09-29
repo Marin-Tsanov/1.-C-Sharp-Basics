@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\7.Sort3Numbers\bin\Debug\7.Sort3Numbers.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\7.Sort3Numbers\obj\Debug\7.Sort3Numbers.pdb

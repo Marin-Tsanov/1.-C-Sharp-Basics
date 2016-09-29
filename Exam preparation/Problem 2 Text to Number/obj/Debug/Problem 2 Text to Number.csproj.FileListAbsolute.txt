@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 2 Text to Number\bin\Debug\Problem 2 Text to Number.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 2 Text to Number\bin\Debug\Problem 2 Text to Number.exe
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 2 Text to Number\bin\Debug\Problem 2 Text to Number.pdb
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 2 Text to Number\obj\Debug\Problem 2 Text to Number.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 2 Text to Number\obj\Debug\Problem 2 Text to Number.exe
+c:\users\marin\documents\visual studio 2015\Projects\Exam preparation\Problem 2 Text to Number\obj\Debug\Problem 2 Text to Number.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\17. PPPPP\bin\Debug\_17.PPPPP.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\17. PPPPP\bin\Debug\_17.PPPPP.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\17. PPPPP\bin\Debug\_17.PPPPP.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\17. PPPPP\obj\Debug\_17.PPPPP.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops2\17. PPPPP\obj\Debug\_17.PPPPP.pdb

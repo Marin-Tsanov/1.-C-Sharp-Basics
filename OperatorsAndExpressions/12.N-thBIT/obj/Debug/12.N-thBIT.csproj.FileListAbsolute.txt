@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\12.N-thBIT\bin\Debug\12.N-thBIT.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\12.N-thBIT\bin\Debug\12.N-thBIT.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\12.N-thBIT\bin\Debug\12.N-thBIT.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\12.N-thBIT\obj\Debug\12.N-thBIT.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\12.N-thBIT\obj\Debug\12.N-thBIT.pdb

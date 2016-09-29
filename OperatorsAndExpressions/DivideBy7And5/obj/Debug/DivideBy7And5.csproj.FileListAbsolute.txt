@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\DivideBy7And5\obj\Debug\DivideBy7And5.pdb

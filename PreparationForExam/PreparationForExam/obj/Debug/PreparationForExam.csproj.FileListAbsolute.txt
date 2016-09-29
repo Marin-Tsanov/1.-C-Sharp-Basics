@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\PreparationForExam\PreparationForExam\bin\Debug\PreparationForExam.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\PreparationForExam\PreparationForExam\bin\Debug\PreparationForExam.exe
+c:\users\marin\documents\visual studio 2015\Projects\PreparationForExam\PreparationForExam\bin\Debug\PreparationForExam.pdb
+c:\users\marin\documents\visual studio 2015\Projects\PreparationForExam\PreparationForExam\obj\Debug\PreparationForExam.exe
+c:\users\marin\documents\visual studio 2015\Projects\PreparationForExam\PreparationForExam\obj\Debug\PreparationForExam.pdb

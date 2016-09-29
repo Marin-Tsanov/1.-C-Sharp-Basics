@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11 Binary\bin\Debug\11 Binary.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11 Binary\bin\Debug\11 Binary.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11 Binary\bin\Debug\11 Binary.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11 Binary\obj\Debug\11 Binary.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11 Binary\obj\Debug\11 Binary.pdb

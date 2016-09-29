@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\MyFirstSoluton\Demo\bin\Debug\Demo.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\MyFirstSoluton\Demo\bin\Debug\Demo.exe
+c:\users\marin\documents\visual studio 2015\Projects\MyFirstSoluton\Demo\bin\Debug\Demo.pdb
+c:\users\marin\documents\visual studio 2015\Projects\MyFirstSoluton\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\MyFirstSoluton\Demo\obj\Debug\Demo.exe
+c:\users\marin\documents\visual studio 2015\Projects\MyFirstSoluton\Demo\obj\Debug\Demo.pdb

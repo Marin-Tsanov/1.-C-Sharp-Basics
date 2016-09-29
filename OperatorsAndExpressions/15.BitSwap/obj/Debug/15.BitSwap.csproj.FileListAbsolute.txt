@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\15.BitSwap\bin\Debug\15.BitSwap.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\15.BitSwap\bin\Debug\15.BitSwap.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\15.BitSwap\bin\Debug\15.BitSwap.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\15.BitSwap\obj\Debug\15.BitSwap.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\15.BitSwap\obj\Debug\15.BitSwap.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\15.BitSwap\obj\Debug\15.BitSwap.pdb

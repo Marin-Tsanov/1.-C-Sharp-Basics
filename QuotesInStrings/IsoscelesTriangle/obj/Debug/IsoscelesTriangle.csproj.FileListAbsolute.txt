@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

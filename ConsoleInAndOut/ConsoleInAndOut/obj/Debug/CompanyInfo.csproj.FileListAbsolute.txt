@@ -1,0 +1,6 @@
+C:\Users\Marin\AppData\Local\Temporary Projects\ConsoleInAndOut\bin\Debug\ConsoleInAndOut.exe.config
+C:\Users\Marin\AppData\Local\Temporary Projects\ConsoleInAndOut\bin\Debug\ConsoleInAndOut.exe
+C:\Users\Marin\AppData\Local\Temporary Projects\ConsoleInAndOut\bin\Debug\ConsoleInAndOut.pdb
+C:\Users\Marin\AppData\Local\Temporary Projects\ConsoleInAndOut\obj\Debug\CompanyInfo.csprojResolveAssemblyReference.cache
+C:\Users\Marin\AppData\Local\Temporary Projects\ConsoleInAndOut\obj\Debug\ConsoleInAndOut.exe
+C:\Users\Marin\AppData\Local\Temporary Projects\ConsoleInAndOut\obj\Debug\ConsoleInAndOut.pdb

@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck\obj\Debug\PrimeCheck.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck\obj\Debug\PrimeCheck.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\PrimeCheck\obj\Debug\8.PrimeCheck.csprojResolveAssemblyReference.cache

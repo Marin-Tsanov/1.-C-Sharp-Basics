@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\SeguenceSecondAttempt\bin\Debug\SeguenceSecondAttempt.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\SeguenceSecondAttempt\bin\Debug\SeguenceSecondAttempt.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\SeguenceSecondAttempt\bin\Debug\SeguenceSecondAttempt.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\SeguenceSecondAttempt\obj\Debug\SeguenceSecondAttempt.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\SeguenceSecondAttempt\obj\Debug\SeguenceSecondAttempt.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\SeguenceSecondAttempt\obj\Debug\SeguenceSecondAttempt.csprojResolveAssemblyReference.cache

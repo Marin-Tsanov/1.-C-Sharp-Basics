@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11. Binary to Decimal\bin\Debug\_11.Binary_to_Decimal.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11. Binary to Decimal\bin\Debug\_11.Binary_to_Decimal.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11. Binary to Decimal\bin\Debug\_11.Binary_to_Decimal.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11. Binary to Decimal\obj\Debug\11. Binary to Decimal.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11. Binary to Decimal\obj\Debug\_11.Binary_to_Decimal.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\11. Binary to Decimal\obj\Debug\_11.Binary_to_Decimal.pdb

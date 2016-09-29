@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\6. Calculate again\bin\Debug\_6.Calculate_again.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\6. Calculate again\bin\Debug\_6.Calculate_again.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\6. Calculate again\bin\Debug\_6.Calculate_again.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\6. Calculate again\obj\Debug\6. Calculate again.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\6. Calculate again\obj\Debug\_6.Calculate_again.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\6. Calculate again\obj\Debug\_6.Calculate_again.pdb

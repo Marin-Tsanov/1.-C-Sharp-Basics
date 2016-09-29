@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise3\obj\Debug\Exercise3.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise3\obj\Debug\Exercise3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Variables\bin\Debug\Variables.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Variables\bin\Debug\Variables.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Variables\bin\Debug\Variables.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Variables\obj\Debug\Variables.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\Variables\obj\Debug\Variables.pdb

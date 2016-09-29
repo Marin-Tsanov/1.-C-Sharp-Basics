@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Formatting Numbers\bin\Debug\Formatting Numbers.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Formatting Numbers\bin\Debug\Formatting Numbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Formatting Numbers\bin\Debug\Formatting Numbers.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Formatting Numbers\obj\Debug\Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Formatting Numbers\obj\Debug\Formatting Numbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Formatting Numbers\obj\Debug\Formatting Numbers.pdb

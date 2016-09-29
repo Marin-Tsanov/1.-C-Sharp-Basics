@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\TypeCasting\bin\Debug\TypeCasting.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\TypeCasting\bin\Debug\TypeCasting.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\TypeCasting\bin\Debug\TypeCasting.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\TypeCasting\obj\Debug\TypeCasting.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\QuotesInStrings\TypeCasting\obj\Debug\TypeCasting.pdb

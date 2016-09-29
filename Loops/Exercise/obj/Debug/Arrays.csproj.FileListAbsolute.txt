@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise\obj\Debug\Exercise.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise\bin\Debug\Exercise.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\Exercise\obj\Debug\Arrays.csprojResolveAssemblyReference.cache

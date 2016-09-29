@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\8.DigitAsWord\bin\Debug\8.DigitAsWord.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\8.DigitAsWord\bin\Debug\8.DigitAsWord.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\8.DigitAsWord\obj\Debug\8.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\8.DigitAsWord\obj\Debug\8.DigitAsWord.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\8.DigitAsWord\obj\Debug\8.DigitAsWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\7. Calculate 3!\bin\Debug\_7.Calculate_3_.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\7. Calculate 3!\bin\Debug\_7.Calculate_3_.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\7. Calculate 3!\bin\Debug\_7.Calculate_3_.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\7. Calculate 3!\obj\Debug\7. Calculate 3!.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\7. Calculate 3!\obj\Debug\_7.Calculate_3_.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Loops\7. Calculate 3!\obj\Debug\_7.Calculate_3_.pdb

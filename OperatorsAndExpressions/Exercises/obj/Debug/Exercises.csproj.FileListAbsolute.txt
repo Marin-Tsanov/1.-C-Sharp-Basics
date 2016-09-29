@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Exercises\bin\Debug\Exercises.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Exercises\bin\Debug\Exercises.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Exercises\bin\Debug\Exercises.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Exercises\obj\Debug\Exercises.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Exercises\obj\Debug\Exercises.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache

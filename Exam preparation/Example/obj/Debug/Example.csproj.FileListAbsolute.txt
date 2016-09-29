@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Example\bin\Debug\Example.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Example\bin\Debug\Example.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Example\bin\Debug\Example.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Example\obj\Debug\Example.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\Exam preparation\Example\obj\Debug\Example.pdb

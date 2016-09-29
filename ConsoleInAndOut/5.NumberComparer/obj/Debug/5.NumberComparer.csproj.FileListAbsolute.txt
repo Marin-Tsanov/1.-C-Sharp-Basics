@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\5.NumberComparer\bin\Debug\5.NumberComparer.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\5.NumberComparer\bin\Debug\5.NumberComparer.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\5.NumberComparer\bin\Debug\5.NumberComparer.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\5.NumberComparer\obj\Debug\5.NumberComparer.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\5.NumberComparer\obj\Debug\5.NumberComparer.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\5.NumberComparer\obj\Debug\5.NumberComparer.csprojResolveAssemblyReference.cache

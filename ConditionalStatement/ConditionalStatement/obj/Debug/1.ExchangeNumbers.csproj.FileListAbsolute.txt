@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\ConditionalStatement\bin\Debug\ConditionalStatement.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\ConditionalStatement\obj\Debug\1.ExchangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConditionalStatement\ConditionalStatement\obj\Debug\ConditionalStatement.pdb

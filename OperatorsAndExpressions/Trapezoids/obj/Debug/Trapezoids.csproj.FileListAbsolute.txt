@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb

@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck2\bin\Debug\PrimeCheck2.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck2\bin\Debug\PrimeCheck2.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck2\bin\Debug\PrimeCheck2.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck2\obj\Debug\PrimeCheck2.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\PrimeCheck2\obj\Debug\PrimeCheck2.pdb

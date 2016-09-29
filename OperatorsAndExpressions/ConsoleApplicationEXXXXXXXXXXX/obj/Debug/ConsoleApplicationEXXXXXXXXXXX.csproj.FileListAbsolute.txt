@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ConsoleApplicationEXXXXXXXXXXX\bin\Debug\ConsoleApplicationEXXXXXXXXXXX.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ConsoleApplicationEXXXXXXXXXXX\bin\Debug\ConsoleApplicationEXXXXXXXXXXX.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ConsoleApplicationEXXXXXXXXXXX\bin\Debug\ConsoleApplicationEXXXXXXXXXXX.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ConsoleApplicationEXXXXXXXXXXX\obj\Debug\ConsoleApplicationEXXXXXXXXXXX.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ConsoleApplicationEXXXXXXXXXXX\obj\Debug\ConsoleApplicationEXXXXXXXXXXX.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\OperatorsAndExpressions\ConsoleApplicationEXXXXXXXXXXX\obj\Debug\ConsoleApplicationEXXXXXXXXXXX.pdb

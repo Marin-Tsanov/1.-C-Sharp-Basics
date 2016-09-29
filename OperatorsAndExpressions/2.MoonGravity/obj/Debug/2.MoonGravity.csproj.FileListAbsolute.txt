@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\2.MoonGravity\bin\Debug\2.MoonGravity.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\2.MoonGravity\bin\Debug\2.MoonGravity.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\2.MoonGravity\bin\Debug\2.MoonGravity.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\2.MoonGravity\obj\Debug\2.MoonGravity.exe
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\2.MoonGravity\obj\Debug\2.MoonGravity.pdb
+c:\users\marin\documents\visual studio 2015\Projects\OperatorsAndExpressions\2.MoonGravity\obj\Debug\2.MoonGravity.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\1,101,1001SecondAttempt\bin\Debug\1,101,1001SecondAttempt.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\1,101,1001SecondAttempt\bin\Debug\1,101,1001SecondAttempt.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\1,101,1001SecondAttempt\bin\Debug\1,101,1001SecondAttempt.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\1,101,1001SecondAttempt\obj\Debug\1,101,1001SecondAttempt.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\1,101,1001SecondAttempt\obj\Debug\1,101,1001SecondAttempt.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Sumof3numbers\bin\Debug\Sumof3numbers.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Sumof3numbers\bin\Debug\Sumof3numbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Sumof3numbers\bin\Debug\Sumof3numbers.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Sumof3numbers\obj\Debug\Sumof3numbers.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Sumof3numbers\obj\Debug\Sumof3numbers.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\ConsoleInAndOut\Sumof3numbers\obj\Debug\Sumof3numbers.pdb

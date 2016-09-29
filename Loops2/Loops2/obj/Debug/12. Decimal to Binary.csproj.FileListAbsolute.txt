@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\Loops2\Loops2\bin\Debug\Loops2.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\Loops2\Loops2\bin\Debug\Loops2.exe
+c:\users\marin\documents\visual studio 2015\Projects\Loops2\Loops2\bin\Debug\Loops2.pdb
+c:\users\marin\documents\visual studio 2015\Projects\Loops2\Loops2\obj\Debug\12. Decimal to Binary.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\Loops2\Loops2\obj\Debug\Loops2.exe
+c:\users\marin\documents\visual studio 2015\Projects\Loops2\Loops2\obj\Debug\Loops2.pdb

@@ -1,0 +1,18 @@
+C:\Users\Marin\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Marin\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Marin\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Marin\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Marin\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Marin\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\01. IntroductionToProgrammingHomework\bin\Debug\HelloWorld.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\01. IntroductionToProgrammingHomework\obj\Debug\HelloWorld.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\01. IntroductionToProgrammingHomework\obj\Debug\HelloWorld.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\01. IntroductionToProgrammingHomework\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\01. IntroductionToProgrammingHomework\bin\Debug\HelloWorld.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\HelloWorld\01. IntroductionToProgrammingHomework\bin\Debug\HelloWorld.pdb
